@@ -5,7 +5,7 @@ This CLI tool downloads the current dataset from our governments open data site 
 ## Installation
 Requires Python 3.13+ and [uv](https://docs.astral.sh/uv/).
 ```bash
-git clone https://github.com/<your-username>/vienna-fountains.git
+git clone https://github.com/JLoim/vienna-fountains.git
 cd vienna-fountains
 uv sync
 ```
